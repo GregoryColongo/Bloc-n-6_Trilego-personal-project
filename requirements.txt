@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+tensorflow-cpu==2.7.0
+gunicorn
